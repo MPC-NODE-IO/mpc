@@ -1,0 +1,232 @@
+2022-10-27T11:07:40+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:07:41+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:07:41+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:07:41+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:10:16+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:10:16+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:10:16+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:10:17+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:11:51+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:11:52+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:11:52+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:11:53+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:16:43+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:16:44+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:16:44+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:16:44+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php:160
+Stack trace:
+#0 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php(71): The7_Content_Importer->import_start()
+#1 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/class-the7-demo-content-import-manager.php(197): The7_Content_Importer->import_batch()
+#2 /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/admin/class-the7-demo-content-admin.php(295): The7_Demo_Content_Import_Manager->import_attachments()
+#3 /public_html/wp-includes/class-wp-hook.php(307): The7_Demo_Content_Admin->ajax_import_demo_content()
+#4 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#6 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#7 {main}
+  thrown in /public_html/wp-content/themes/dt-the7/inc/mods/demo-content/importers/class-the7-content-importer.php on line 160
+
+2022-10-27T11:32:23+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /public_html/wp-content/plugins/pro-elements/plugin.php:350
+Stack trace:
+#0 /public_html/wp-includes/class-wp-hook.php(309): ElementorPro\Plugin->get_responsive_stylesheet_templates()
+#1 /public_html/wp-includes/plugin.php(235): WP_Hook->apply_filters()
+#2 /public_html/wp-content/plugins/elementor/modules/dev-tools/deprecation.php(357): apply_filters_ref_array()
+#3 /public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(533): Elementor\Modules\DevTools\Deprecation->apply_deprecated_filter()
+#4 /public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(420): Elementor\Core\Breakpoints\Manager::get_stylesheet_templates()
+#5 /public_html/wp-content/plugins/elementor/core/kits/documents/tabs/settings-layout.php(292): Elementor\Core\Breakpoints\Manager::compile_stylesheet_templates()
+#6 /public_html/wp-content/plugins/elementor/core/kits/documents/kit.php(98): Elementor\Core\Kits\Documents\Tabs\Settings_Layout->on_save()
+#7 /public_html/wp-content/themes/dt-the7/inc/mods/compatibility/elementor/modules/kits/the7-kit.php(66): Elementor\Core\Kits\Documents\Kit->save()
+#8 /public_html/wp-content/plugins/elementor/core/documents-manager.php(527): The7\Mods\Compatibility\Elementor\Modules\Kits\The7_Kit->save()
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#10 /public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#11 /public_html/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#12 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#13 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#14 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#15 {main}
+  thrown in /public_html/wp-content/plugins/pro-elements/plugin.php on line 350
+
+2022-10-27T11:32:29+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /public_html/wp-content/plugins/pro-elements/plugin.php:350
+Stack trace:
+#0 /public_html/wp-includes/class-wp-hook.php(309): ElementorPro\Plugin->get_responsive_stylesheet_templates()
+#1 /public_html/wp-includes/plugin.php(235): WP_Hook->apply_filters()
+#2 /public_html/wp-content/plugins/elementor/modules/dev-tools/deprecation.php(357): apply_filters_ref_array()
+#3 /public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(533): Elementor\Modules\DevTools\Deprecation->apply_deprecated_filter()
+#4 /public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(420): Elementor\Core\Breakpoints\Manager::get_stylesheet_templates()
+#5 /public_html/wp-content/plugins/elementor/core/kits/documents/tabs/settings-layout.php(292): Elementor\Core\Breakpoints\Manager::compile_stylesheet_templates()
+#6 /public_html/wp-content/plugins/elementor/core/kits/documents/kit.php(98): Elementor\Core\Kits\Documents\Tabs\Settings_Layout->on_save()
+#7 /public_html/wp-content/themes/dt-the7/inc/mods/compatibility/elementor/modules/kits/the7-kit.php(66): Elementor\Core\Kits\Documents\Kit->save()
+#8 /public_html/wp-content/plugins/elementor/core/documents-manager.php(527): The7\Mods\Compatibility\Elementor\Modules\Kits\The7_Kit->save()
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#10 /public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#11 /public_html/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#12 /public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#13 /public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#14 /public_html/wp-admin/admin-ajax.php(187): do_action()
+#15 {main}
+  thrown in /public_html/wp-content/plugins/pro-elements/plugin.php on line 350
+
