@@ -3,6 +3,21 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Site
-
-This is the front page of your Jekyll site.
+<section class="post">
+  {% assign post = site.posts | where: "path", "mpcnodestats.md" | first %}
+  {% if post %}
+    <article class="post">
+      <h1 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+    </article>
+  {% else %}
+    <p>Post not found. Please ensure the file "mpc-nodestats.md" exists in the _posts directory and the filename and extension are correct.</p>
+  {% endif %}
+</section>
